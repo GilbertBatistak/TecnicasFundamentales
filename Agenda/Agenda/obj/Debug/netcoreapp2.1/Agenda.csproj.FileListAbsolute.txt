@@ -1,0 +1,11 @@
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.1\Agenda.deps.json
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.1\Agenda.runtimeconfig.json
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.1\Agenda.runtimeconfig.dev.json
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.1\Agenda.dll
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.1\Agenda.pdb
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.1\Agenda.csprojAssemblyReference.cache
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.1\Agenda.AssemblyInfo.cs
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.1\Agenda.dll
+C:\Users\Elvis G Batista\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.1\Agenda.pdb
